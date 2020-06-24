@@ -6,11 +6,11 @@ How API's communication looks in a fullstack project, and how different clients 
 
 <img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/createUserSequenceDiagram.png"/>
 
-Prework: How to do things with npm
+<H1>Prework: How to do things with npm</H1>
 
 recording here: https://www.dropbox.com/s/1489cmz8dc3obd6/createUserFlowPrework.mp4?dl=0
 
-Session 1: How to send an anonymous email from firebase to a user
+<H1>Session 1: How to send an anonymous email from firebase to a user</H1>
 
 recording: https://www.dropbox.com/s/croc3vp7apz3qhd/createUserFlowSession1.mp4?dl=0
 
