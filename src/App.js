@@ -8,6 +8,8 @@ import {
 } from "react-router-dom";
 import Dashboard123 from './Dashboard';
 import CreateUser from './CreateUser';
+import CreateUser2 from './CreateUser2';
+import CreateUser3 from './CreateUser3';
 
 function App() {
   return (
@@ -43,6 +45,12 @@ function App() {
         </Route>
         <Route path="/dashboard">
           <Dashboard123 />
+        </Route>
+        <Route path="/createUser2">
+          <CreateUser2 />
+        </Route>
+        <Route path="/createUser3">
+          <CreateUser3 />
         </Route>
       </Switch>
     </div>
