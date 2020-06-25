@@ -10,7 +10,7 @@ recording here: https://www.dropbox.com/s/1489cmz8dc3obd6/createUserFlowPrework.
 
 <h2>How API's communication looks in a fullstack project, and how different clients can hit the backend</h2>
 
-<img width="287.875px" height="361.094px" src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/ApiFlow.png"/>
+<img width="287.875" height="361.094" src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/ApiFlow.png"/>
 
 <H1>Session 1: How to send an anonymous email from firebase to a user</H1>
 
