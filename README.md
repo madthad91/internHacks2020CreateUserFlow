@@ -1,10 +1,10 @@
 What were going for in this series: 
 
-<img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/ApiFlow.png"/>
+<img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/createUserSequenceDiagram.png"/>
 
 How API's communication looks in a fullstack project, and how different clients can hit the backend
 
-<img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/createUserSequenceDiagram.png"/>
+<img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/ApiFlow.png"/>
 
 <H1>Prework: How to do things with npm</H1>
 
