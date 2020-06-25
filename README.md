@@ -2,17 +2,21 @@ What were going for in this series:
 
 <img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/createUserSequenceDiagram.png"/>
 
-How API's communication looks in a fullstack project, and how different clients can hit the backend
+<H1>Prework</H1>
 
-<img src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/ApiFlow.png"/>
-
-<H1>Prework: How to do things with npm</H1>
+<h2>Npm practice and foundation through excercises</h2>
 
 recording here: https://www.dropbox.com/s/1489cmz8dc3obd6/createUserFlowPrework.mp4?dl=0
+
+<h2>How API's communication looks in a fullstack project, and how different clients can hit the backend</h2>
+
+<img width="287.875px" height="361.094px" src="https://raw.githubusercontent.com/madthad91/internHacks2020CreateUserFlow/master/imgs/ApiFlow.png"/>
 
 <H1>Session 1: How to send an anonymous email from firebase to a user</H1>
 
 recording: https://www.dropbox.com/s/croc3vp7apz3qhd/createUserFlowSession1.mp4?dl=0
+
+Code up to this point: https://github.com/madthad91/internHacks2020CreateUserFlow/releases/tag/1.0.0
 
 Links we used:
 
@@ -27,6 +31,8 @@ Gotchas:
 <H1>Session 2: How to handle the callback url and make a basic form</H1>
 
 recording: https://www.dropbox.com/s/yxfdn7j4dri05an/createUserFlowSession2.mp4?dl=0
+
+Code up to this point: https://github.com/madthad91/internHacks2020CreateUserFlow/releases/tag/2.0.0
 
 Links we used mid session:
 
