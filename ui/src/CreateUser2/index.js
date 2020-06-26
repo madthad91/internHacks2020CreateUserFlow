@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 
 class CreateUser2 extends Component {
   constructor(props) {
@@ -22,6 +23,12 @@ class CreateUser2 extends Component {
 
   enrollUser = () => {
     alert(JSON.stringify(this.state))
+    axios.post('http://localhost:8080/createUser', this.state)
+    .then((response) => {
+      alert(response);
+    }, (error) => {
+      console.log(error);
+    });
   }
 
   render() {
