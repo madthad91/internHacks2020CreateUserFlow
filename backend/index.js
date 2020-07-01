@@ -35,4 +35,9 @@ app.post('/createUser', (req, res) => {
 });
 
 app.get('/healthCheck', (req, res) => res.send('hello world'));
-app.listen(port);
+
+let portNumber = process.env.PORT || port;
+
+console.log(`The env variable PORT is: ${process.env.PORT}`);
+
+app.listen(portNumber, ()=>console.log(`The server is listening on ${portNumber}`));
